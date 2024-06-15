@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f015d74-f89f-4835-8678-2d68a49744d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/.idea/spring-security-course+-+seccion+19+-+fin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/SpringSecurityCourseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/config/security/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/config/security/ResourceServerHttpSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/config/security/SecurityBeansInjector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/config/security/authorization/CustomAuthorizationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/config/security/filter/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/config/security/handler/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/config/security/handler/CustomAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/controller/AuthenticationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/controller/PermissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/ApiError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/LogoutResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/RegisteredUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/SaveCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/SavePermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/SaveProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/SaveUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/ShowPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/auth/AuthenticationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/dto/auth/AuthenticationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/exception/InvalidPasswordException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/exception/ObjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/security/GrantedPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/security/JwtToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/security/Module.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/security/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/security/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/entity/security/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/repository/security/JwtTokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/repository/security/OperationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/repository/security/PermissionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/repository/security/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/repository/security/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/util/RoleEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/persistence/util/RolePermissionEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/PermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/auth/AuthenticationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/auth/JwtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/impl/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/impl/PermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/java/com/cursos/api/springsecuritycourse/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/resources/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/resources/application-docker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/resources/application-local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/resources/data-h2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/main/resources/data-mysql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-course+-+seccion+19+-+fin/spring-security-course - seccion 18 - fin/src/test/java/com/cursos/api/springsecuritycourse/SpringSecurityCourseApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="seccion16-fin" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../JDK/jdk-17.0.2/lib/src.zip!/java.sql/java/sql/Timestamp.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/10.1.11/tomcat-embed-core-10.1.11-sources.jar!/jakarta/servlet/DispatcherType.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/6.1.2/spring-security-config-6.1.2.jar!/org/springframework/security/config/annotation/web/builders/FilterOrderRegistration.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/6.1.2/spring-security-config-6.1.2.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/6.1.2/spring-security-config-6.1.2.jar!/org/springframework/security/config/annotation/web/configurers/AuthorizeHttpRequestsConfigurer.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/authentication/AuthenticationManager.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/authorization/AuthoritiesAuthorizationManager.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/authorization/AuthorityAuthorizationManager.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/authorization/AuthorizationDecision.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/authorization/AuthorizationManager.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/authorization/method/PreFilterAuthorizationMethodInterceptor.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/core/Authentication.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/core/context/SecurityContextHolder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.1.2/spring-security-core-6.1.2-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.1.2/spring-security-web-6.1.2.jar!/org/springframework/security/web/access/AccessDeniedHandler.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.1.2/spring-security-web-6.1.2.jar!/org/springframework/security/web/authentication/WebAuthenticationDetails.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.0.11/spring-web-6.0.11-sources.jar!/org/springframework/http/HttpStatus.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2TOFQ6qfyf9a0KnZYrFmrMkndyZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Proyectos/Proyectos del curso Spring Security/spring-security-course+-+seccion+19+-+fin",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\My Drive\Proyectos Personales\Domina spring security 6 + spring boot 3\final\spring-security-course\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cursos.api.springsecuritycourse.exception" />
+      <recent name="com.cursos.api.springsecuritycourse.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringSecurityCourseApplication">
+    <configuration name="SpringSecurityCourseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cursos.api.springsecuritycourse.SpringSecurityCourseApplication" />
+      <module name="spring-security-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cursos.api.springsecuritycourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generate Jar without test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+                <option value="-Dmaven.test.skip=true" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Docker : Run my app" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="my-app:v1.2" />
+          <option name="containerName" value="my-app-container-v1.2" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="9191" />
+                <option name="hostPort" value="8585" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
+      <deployment type="docker-image">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="client: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="../client/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringSecurityCourseApplication" />
+      <item itemvalue="Docker.Docker : Run my app" />
+      <item itemvalue="Docker.client: Compose Deployment" />
+      <item itemvalue="Maven.Generate Jar without test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringSecurityCourseApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f015d74-f89f-4835-8678-2d68a49744d0" name="Changes" comment="" />
+      <created>1690906204933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690906204933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cursos/api/springsecuritycourse/service/auth/AuthenticationService.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.0.11/spring-web-6.0.11.jar!/org/springframework/web/filter/CorsFilter.class</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.security.web.firewall.StrictHttpFirewall$StrictFirewalledRequest" memberName="request" />
+        <PinnedItemInfo parentTag="org.springframework.web.cors.UrlBasedCorsConfigurationSource" memberName="pathMatcher" />
+        <PinnedItemInfo parentTag="org.springframework.security.web.FilterChainProxy$VirtualFilterChain" memberName="additionalFilters" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_security_course$SpringSecurityCourseApplication.ic" NAME="SpringSecurityCourseApplication Coverage Results" MODIFIED="1693884425897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cursos.api.springsecuritycourse.*</FILTER>
+    </SUITE>
+  </component>
+</project>
